@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter and OS
+.ipynb_checkpoints/
+.DS_Store
+
+# IDE and AI config
+.idea/
+.claude/
+.gemini/
+
+# AutoGluon models and predictors
+**/AutogluonModels/
+**/reservation_predictors/
+**/uber_fast/
+**/uber_predictors/
+**/uber_predictors_manual/
+**/uber_predictors_manual_val/
+**/uber_predictors_preset/
+**/pet_finder/
+**/test_mm_model/
+
