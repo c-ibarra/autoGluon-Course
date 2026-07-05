@@ -1,7 +1,3 @@
-# AI config (Claude and Gemini)
-.claude/
-.gemini/
-
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -31,8 +27,6 @@ wheels/
 **/pet_finder/
 **/test_mm_model/
 
-# Temp files
-plan_de_subida_github.md
 
 
 
