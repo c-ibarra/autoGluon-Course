@@ -109,4 +109,5 @@ AutoGluon automatically tests and ensembles a diverse range of architectures:
 
 ---
 
-*Developed by **[c-ibarra](https://github.com/c-ibarra)**.*
+
+
