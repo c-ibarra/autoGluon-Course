@@ -1,3 +1,7 @@
+# AI config (Claude and Gemini)
+.claude/
+.gemini/
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -13,10 +17,8 @@ wheels/
 .ipynb_checkpoints/
 .DS_Store
 
-# IDE and AI config
+# IDE config
 .idea/
-.claude/
-.gemini/
 
 # AutoGluon models and predictors
 **/AutogluonModels/
@@ -31,5 +33,6 @@ wheels/
 
 # Temp files
 plan_de_subida_github.md
+
 
 
