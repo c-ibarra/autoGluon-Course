@@ -1,5 +1,7 @@
 # AutoGluon Masterclass: Applied Machine Learning & Deep Learning
 
+![AutoGluon Course Banner](BannerAutoGlounCourse.png)
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![AutoGluon](https://img.shields.io/badge/AutoGluon-0.8+-orange.svg?style=flat-square)](https://auto.gluon.ai/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg?style=flat-square&logo=pytorch)](https://pytorch.org/)
